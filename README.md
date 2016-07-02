@@ -9,4 +9,4 @@ Make a folder <New_folder>
 copy downloaded contents in this folder
 Configure Kicad Download from :kicad-pcb.org/
 open this project in Kicad
-Ready to work !
+Ready to work 
